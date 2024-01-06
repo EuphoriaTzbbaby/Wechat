@@ -4,3 +4,6 @@ text-align 横向居中
 background-color 颜色
 flex 横向显示
 space-around 儿子之间有空隙
+scroll-x 横向滚动
+scroll-y 纵向滚动
+border: xpx solid color 边框线
