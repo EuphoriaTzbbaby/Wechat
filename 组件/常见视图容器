@@ -1,0 +1,9 @@
+1. view
+    普通视图区域
+    相当于 html 中的 div
+    常用来实现页面的布局效果
+2. scroll-view
+    可滚动的视图区域
+    常用来实现滚动列表效果
+3. swiper 和 swiper-item
+    轮播图容器组件 和 轮播图 item 组件
