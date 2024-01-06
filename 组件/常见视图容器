@@ -7,3 +7,9 @@
     常用来实现滚动列表效果
 3. swiper 和 swiper-item
     轮播图容器组件 和 轮播图 item 组件
+    indicator-dots 有点
+    indicator-color 未激活的点颜色
+    indicator-active-color 激活的点颜色
+    autoplay 直接转
+    interval 多久转一次
+    circular 循环转
