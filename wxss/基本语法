@@ -1,0 +1,6 @@
+.xxx(类名) yyy 设置所有 yyy 的样式
+.xxx yyy:nth-child(id) 单独设置第 id 个 yyy 的样式
+text-align 横向居中
+background-color 颜色
+flex 横向显示
+space-around 儿子之间有空隙
