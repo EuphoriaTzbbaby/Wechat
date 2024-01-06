@@ -7,3 +7,4 @@ space-around 儿子之间有空隙
 scroll-x 横向滚动
 scroll-y 纵向滚动
 border: xpx solid color 边框线
+swiper-item:nth-child(id) 单独设置第 id 个 swiper-item 的样式
